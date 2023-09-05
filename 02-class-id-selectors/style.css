@@ -1,0 +1,27 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.salmon{
+    background-color: hsl(6, 93%, 71%);
+}
+
+.alt-font{
+    font-family: 
+}
+
+#blue-text{
+    color: hsl(240, 100%, 50%);
+    font-size: 26px;
+}
+
+#large-text{
+    color:black;
+    font-size: 18px;
+    font-weight: bolder;
+    background-color: hsl(120, 73%, 75%);
+}
+
+.medium-text{
+    font-size: 20px;
+}
